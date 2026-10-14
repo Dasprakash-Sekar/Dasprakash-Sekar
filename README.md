@@ -37,6 +37,40 @@
 
 ---
 
+### 🏆 Key Achievements & Milestones
+
+<div align="center">
+
+| Metric / Milestone | Achievement | Impact & Scope |
+| :---: | :--- | :--- |
+| 🚀 **10+ Enterprise Apps** | **Production Applications Shipped** | Built & scaled live POS, Kiosk, and Contactless ordering platforms at LUCID IT Solutions across India. |
+| ⚡ **< 1s Load Times** | **Performance & Core Web Vitals** | Optimized client bundles via Vite code-splitting and TanStack caching for instant, flicker-free rendering. |
+| ☁️ **99.9% Uptime** | **Production Cloud Deployments** | Architected automated AWS (EC2/S3/CloudFront) deployments with PM2 clustering, Nginx, and GitHub Actions. |
+| 📱 **Offline-First PWA** | **Progressive Web App Architecture** | Engineered offline-capable student clients (Hovers Academy) utilizing Service Workers and IndexedDB. |
+| 🎓 **Postgraduate** | **Master of Computer Applications (MCA)** | Awarded Master's degree from Alagappa University specializing in Computer Applications & Software Engineering. |
+
+<br />
+
+#### 🎖️ GitHub Achievements
+
+<a href="https://github.com/Dasprakash-Sekar?tab=achievements" target="_blank">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="65px" alt="Quickdraw Achievement" title="Quickdraw: Closed an issue or PR within 5 minutes" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Dasprakash-Sekar?tab=achievements" target="_blank">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="65px" alt="Pull Shark Achievement" title="Pull Shark: Merged a pull request" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Dasprakash-Sekar?tab=achievements" target="_blank">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff42e6a.png" width="65px" alt="YOLO Achievement" title="YOLO: Merged a pull request without code review" />
+</a>
+
+<p><em>Click badges above to view verified badges on GitHub</em></p>
+
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Tooling
 
 <div align="center">
