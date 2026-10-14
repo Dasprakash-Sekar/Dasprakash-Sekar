@@ -1,0 +1,28 @@
+name: Daily Contribution & Streak Keeper
+
+on:
+  schedule:
+    - cron: '30 3 * * *' # Runs daily at 03:30 UTC (9:00 AM IST)
+  workflow_dispatch:
+
+jobs:
+  daily-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update activity log
+        run: |
+          echo "⚡ Daily Dev Checkpoint: $(date -u)" >> activity-log.txt
+          tail -n 100 activity-log.txt > activity-log.tmp && mv activity-log.tmp activity-log.txt
+
+      - name: Commit and push daily activity
+        run: |
+          git config --global user.name "Dasprakash-Sekar"
+          git config --global user.email "das25kkdi@gmail.com"
+          git add activity-log.txt
+          git commit -m "chore(activity): sync daily development checkpoint [skip ci]" || echo "No changes"
+          git push
