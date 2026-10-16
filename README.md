@@ -11,6 +11,9 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Dasprakash-Sekar?tab=followers" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20%40Dasprakash--Sekar-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
   <a href="https://dasprakashsekar.site" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-dasprakashsekar.site-2ea44f?style=for-the-badge" alt="Portfolio" />
   </a>
@@ -159,6 +162,7 @@ LUCID IT Solutions (Bengaluru, India)
 
 Looking for a dedicated Frontend or Full-Stack Engineer who can bridge sleek user interfaces with rock-solid backend infrastructure? Let's talk!
 
+[![Follow on GitHub](https://img.shields.io/badge/Follow-Dasprakash--Sekar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dasprakash-Sekar?tab=followers)
 [![Portfolio](https://img.shields.io/badge/Portfolio-dasprakashsekar.site-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dasprakashsekar.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dasprakashsekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dasprakashsekar)
 [![Email](https://img.shields.io/badge/Email-das25kkdi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:das25kkdi@gmail.com)
